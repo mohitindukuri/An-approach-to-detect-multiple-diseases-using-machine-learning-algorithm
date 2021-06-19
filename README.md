@@ -1,0 +1,1 @@
+# An-approach-to-detect-multiple-diseases-using-machine-learning-algorithm
